@@ -1,8 +1,8 @@
-##**JunHyeon Hwang**
+## **JunHyeon Hwang**
 ---
 *Inha Univ.*
 ---
-##Interest
+## Interest
 > ML
 > Recommendation System
 > BackEnd
