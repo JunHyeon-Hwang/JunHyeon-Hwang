@@ -1,12 +1,12 @@
 ## **JunHyeon Hwang**
 ---
-*Inha Univ.*
+### *Inha Univ.*
 ---
 ## Interest
-> ML
-> Recommendation System
-> BackEnd
-> Algorithms
+> ML  
+> Recommendation System  
+> BackEnd  
+> Algorithms  
 
 <!--
 **JunHyeon-Hwang/JunHyeon-Hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
