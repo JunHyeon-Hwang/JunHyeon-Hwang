@@ -1,6 +1,6 @@
 ## **JunHyeon Hwang**
 ---
-### *Inha Univ.*
+##### *Inha Univ.*
 ---
 ## Interest
 > ML  
