@@ -4,8 +4,7 @@
 
 ## Interest
 > ML  
-> Recommendation System  
-> BackEnd  
+> Computer Vision
 > Algorithms  
 
 <!--
