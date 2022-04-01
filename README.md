@@ -3,11 +3,10 @@
 ##### *Inha Univ.*
 
 ## Interest
-> ML  
-> NLP  
-> Computer Vision  
-> Algorithms  
-> BackEnd  
+> Web-Backend
+> Spring-Boot
+> Algorithms
+> AI 
 
 <!--
 **JunHyeon-Hwang/JunHyeon-Hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
